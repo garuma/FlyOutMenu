@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -120,7 +119,7 @@ namespace FlyOutMenu
 		{
 			this.opened = opened;
 			if (!animated)
-				SetNewOffset (MaxOffset);
+				SetNewOffset (opened ? MaxOffset : 0);
 			else {
 				if (animator != null) {
 					animator.Cancel ();
