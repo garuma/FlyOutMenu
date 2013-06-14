@@ -3,7 +3,10 @@ FlyOutMenu
 
 An implementation of a fly-out menu (aka sliding menu, aka that navigation thing on the left) for [Xamarin.Android](http://xamarin.com/android)
 
-![screenshot](https://blog.neteril.org/wp-content/uploads/fly-menu/state3.png)
+<p align="center">
+    <img src="https://blog.neteril.org/wp-content/uploads/fly-menu/state1.png" width="158"> <img src="https://blog.neteril.org/wp-content/uploads/fly-menu/state2.png" width="158"> <img src="https://blog.neteril.org/wp-content/uploads/fly-menu/state3.png" width="158"> <img src="https://blog.neteril.org/wp-content/uploads/fly-menu/state4.png" width="158"> <img src="https://blog.neteril.org/wp-content/uploads/fly-menu/state5.png" width="158"> 
+    <br/><em>Our menu in its different states when right slided</em>
+</p>
 
 ## Note
 
