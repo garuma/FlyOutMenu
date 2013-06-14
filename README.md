@@ -8,6 +8,8 @@ An implementation of a fly-out menu (aka sliding menu, aka that navigation thing
     <br/><em>Our menu in its different states when right slided</em>
 </p>
 
+Blog post introducing this code: [blog.neteril.org/blog/2013/04/19/fly-out-menu-xamarin-android/](https://blog.neteril.org/blog/2013/04/19/fly-out-menu-xamarin-android/)
+
 ## Note
 
 There is now an Android [blessed implementation](http://developer.android.com/design/patterns/navigation-drawer.html) of this pattern in the support package but this code is still useful as a learning experience or if you want to be able to have a fully customized slider.
